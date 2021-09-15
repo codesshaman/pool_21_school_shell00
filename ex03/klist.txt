@@ -1,0 +1,6 @@
+Credentials cache: API:1013577
+        Principal: jleslee@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug 16 16:08:50 2021  Aug 17 02:08:50 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
+Aug 16 16:08:53 2021  Aug 17 02:08:50 2021  HTTP/student-storage.kzn.21-school.ru@KZN.21-SCHOOL.RU
